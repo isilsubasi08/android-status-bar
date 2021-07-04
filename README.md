@@ -4,6 +4,9 @@
 ## <b>res/themes</b> kısmındaki renkleri değiştirirsek istediğimiz görünümü elde edebiliriz.Eğer actionbar yerine toolbar kullanırsak kendisi geri tuşunu ekleyecektir. Ama actionbar varsa kendimiz ekleyeceğiz.
 <h1>Aşağıdaki resimde isimleri verilmiştir.</h1><br>
 
+![info](https://github.com/isilay-subasi/android-status-bar/blob/main/images/info.png)
+
+
 
 ## Action-Barı Özelleştirmek için
 - İlk adım olarak menu oluşturup içerisine main adında .xml ekliyoruz.
@@ -26,6 +29,8 @@ android:id: Tüm uygulama dosyalarında herhangi bir yere erişmek için kullan�
 
 
 # Custom Action Bar
+
+![show](https://github.com/isilay-subasi/android-status-bar/blob/main/images/show.PNG)
   
 
 
