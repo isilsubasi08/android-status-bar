@@ -30,7 +30,7 @@ android:id: Tüm uygulama dosyalarında herhangi bir yere erişmek için kullan�
 
 # Custom Action Bar
 
-![show](https://github.com/isilay-subasi/android-status-bar/blob/main/images/show.PNG)
+![show](https://github.com/isilay-subasi/android-status-bar/blob/main/images/show-1.PNG)
   
 
 
